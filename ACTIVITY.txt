@@ -1,0 +1,4 @@
+# This file is only for logging activity into the GitHub graph. It's mainly fo me, as I don't always
+# push on to Github, so i know when i was engaged in programming and when I let is slide
+
+09.12.2025 - Learning/Revising OOP princips in python
