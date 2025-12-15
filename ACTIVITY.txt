@@ -2,3 +2,8 @@
 # push on to Github, so i know when i was engaged in programming and when I let is slide
 
 09.12.2025 - Learning/Revising OOP princips in python
+15.12.2025 - Learning cv2
+
+
+
+
