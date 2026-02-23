@@ -10,8 +10,8 @@ Základ všeho. Naučíš se používat Hash Mapy (`dict`) a Hash Sety (`set`) p
 - [x] Contains Duplicate *(Easy)*
 - [x] Valid Anagram *(Easy)*
 - [x] Two Sum *(Easy)*
-- [ ] Group Anagrams *(Medium)*
-- [ ] Top K Frequent Elements *(Medium)*
+- [x] Group Anagrams *(Medium)*
+- [x] Top K Frequent Elements *(Medium)*
 
 ## 2. Two Pointers
 Technika dvou ukazatelů. Často se používá na seřazených polích pro úsporu paměti.
