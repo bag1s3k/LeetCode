@@ -7,11 +7,11 @@ Tato roadmapa kopíruje strukturu NeetCode 150. Úlohy jsou v každé sekci seř
 
 ## 1. Arrays & Hashing
 Základ všeho. Naučíš se používat Hash Mapy (`dict`) a Hash Sety (`set`) pro bleskové vyhledávání.
-- [x] Contains Duplicate *(Easy)*
-- [x] Valid Anagram *(Easy)*
-- [x] Two Sum *(Easy)*
-- [x] Group Anagrams *(Medium)*
-- [x] Top K Frequent Elements *(Medium)*
+- [x] Contains Duplicate *(Easy)* [#217](./217.py)
+- [x] Valid Anagram *(Easy)* [#242](./242.py)
+- [x] Two Sum *(Easy)* [#1](./1_.py)
+- [x] Group Anagrams *(Medium)* [#49](./49.py)
+- [x] Top K Frequent Elements *(Medium)* [#347](./347.py)
 
 ## 2. Two Pointers
 Technika dvou ukazatelů. Často se používá na seřazených polích pro úsporu paměti.
