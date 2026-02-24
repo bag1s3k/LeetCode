@@ -1,7 +1,6 @@
 # 🗺️ LeetCode Algoritmická Roadmapa (od nuly k profíkovi)
 
-Tato roadmapa kopíruje strukturu NeetCode 150. Úlohy jsou v každé sekci seřazeny od nejjednodušších po těžší. 
-**Pravidlo:** Pokud se u nějaké Medium úlohy zasekneš na víc než 30 minut, podívej se na řešení, pochop logiku a kód si přepiš.
+Tato roadmapa kopíruje strukturu NeetCode 150. Úlohy jsou v každé sekci seřazeny od nejjednodušších po těžší.
 
 ---
 
