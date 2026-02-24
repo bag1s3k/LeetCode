@@ -14,9 +14,9 @@ Základ všeho. Naučíš se používat Hash Mapy (`dict`) a Hash Sety (`set`) p
 
 ## 2. Two Pointers
 Technika dvou ukazatelů. Často se používá na seřazených polích pro úsporu paměti.
-- [ ] #125 Valid Palindrome *(Easy)* 
-- [ ] #283 Move Zeroes *(Easy)* 
-- [ ] #167 Two Sum II - Input Array Is Sorted *(Medium)* 
+- [ ] [#125](./leetcode_problems/125.py) Valid Palindrome *(Easy)* 
+- [ ] [#283](./leetcode_problems/283.py) Move Zeroes *(Easy)* 
+- [ ] [#167](./leetcode_problems/167.py) Two Sum II - Input Array Is Sorted *(Medium)* 
 - [ ] #15 3Sum *(Medium)* 
 - [ ] #11 Container With Most Water *(Medium)* 
 
